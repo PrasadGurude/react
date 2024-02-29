@@ -1,4 +1,4 @@
-// import { useState } from 'react'
+import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-      <div className='bg-green-700 p-4'>this is router
-      </div>
+      <h1>Learn about redux toolkit</h1>
     </>
   )
 }
